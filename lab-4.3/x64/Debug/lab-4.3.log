@@ -1,0 +1,4 @@
+﻿  lab-4.3.cpp
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 4.0\4.3\lab-4.3\lab-4.3\lab-4.3.cpp(8,28): warning C4101: 'y': unreferenced local variable
+C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 4.0\4.3\lab-4.3\lab-4.3\lab-4.3.cpp(8,15): warning C4101: 'A': unreferenced local variable
+  lab-4.3.vcxproj -> C:\Users\sun4u\OneDrive\Рабочий стол\Навчання\АП\лаб 4.0\4.3\lab-4.3\x64\Debug\lab-4.3.exe
